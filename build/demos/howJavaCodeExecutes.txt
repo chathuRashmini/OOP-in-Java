@@ -1,0 +1,62 @@
+1st step: compilation
+source code (*.java) -> java compiler -> byte code (*.class)
+
+2nd step: execution
+
+VARIABLES: to temporary store data
+type name = value;
+= is assignment operator
+ex: int num = 30;
+-------------------------------------
+DATA TYPES
+1. PRIMITIVE: store simple value	|	numbers, characters, booleans
+byte | 1 | [128, 127]
+short | 2 | [-32K, 32K]
+int | 4 | [-2B, 2B]
+long | 8
+float | 4
+double | 8
+char | 2 | A, B, C, ...
+boolean | 1 | true/false
+----------------------------------------
+
+2. REFERENCE: store complex objects	|	date, mail msgs
+---------------------------------------------------------
+
+primitive		|		reference -------->>> video 40th min
+--------------------------------------------------------------
+
+Strings
+-------------------------------------------
+
+ESCAPE SEQUENCES
+---------------------------------------
+ARAYS
+------------------------------------
+MULTI DIMENTIONAL ARRAYS
+
+-----------------------------------------
+ARITHMETIC EXPRESSIONS + - * / %
+
+---------------------------------------
+ORDER OF OPERATORS
+()	>	*/	>	+-
+
+---------------------------------------
+CASTING and TYPE CONERSION
+
+---------------------------------------
+MATH CLASS
+
+------------------------------------
+FORMATTING NUMBERS
+
+------------------------------------
+REEDING INPUTS
+
+--------------------------------
+CONTROL FLOW
+
+------------------------
+FOR LOOP
+WHILE  LOOP
